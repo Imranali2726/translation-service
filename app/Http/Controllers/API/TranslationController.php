@@ -13,7 +13,6 @@ use Illuminate\Http\Request;
 class TranslationController extends Controller
 {
     public function __construct(protected TranslationService $service) {}
-
     /**
      * @OA\Get(
      *     path="/api/translations",
