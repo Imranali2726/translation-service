@@ -1,5 +1,4 @@
 <?php
-// app/Http/Controllers/API/TranslationController.php
 
 namespace App\Http\Controllers\API;
 
