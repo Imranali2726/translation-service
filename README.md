@@ -10,7 +10,7 @@ Follow these steps to set up the Translation Management Service on your local ma
 First, clone the repository:
 
 
-git clone https://github.com/your-username/translation-service.git
+git clone https://github.com/Imranali2726/translation-service.git
 cd translation-service
 2. Install Dependencies
 Install the required dependencies using Composer:
